@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA2IntroCSharp2C2020", "PA2IntroCSharp2C2020\PA2IntroCSharp2C2020.csproj", "{0AD9B4A6-A4A2-424E-9445-6929B05B1B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD9B4A6-A4A2-424E-9445-6929B05B1B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD9B4A6-A4A2-424E-9445-6929B05B1B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD9B4A6-A4A2-424E-9445-6929B05B1B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD9B4A6-A4A2-424E-9445-6929B05B1B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40AD815-4657-48E2-AE07-586181ABED85}
+	EndGlobalSection
+EndGlobal
